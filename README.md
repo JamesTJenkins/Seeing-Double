@@ -1,4 +1,4 @@
 # Seeing-Double
-Simple cat game 
+Seeing double game
 
-The project holds all the scripts used to create a simple cat game
+The repository holds all the scripts used to create the 'seeing double' game
